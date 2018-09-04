@@ -1,0 +1,31 @@
+A atividade será realizada em grupo. a) O grupo deverá eleger um dos membros para hospedar o repositório de hoje. O membro escolhido deverá criar
+na sua conta GitHub um repositório chamado devops-ac03, e incluir os demais membros do grupo como
+colaboradores.
+b) Através da interface web do GitHub, o dono do repositório deverá criar os seguintes arquivos no repositório:
+• /src/.gitkeep
+• /docs/analise/.gitkeep
+• /docs/arquitetura/.gitkeep
+• /docs/teste/.gitkeep
+• /docs/implantacao/.gitkeep
+Estes arquivos podem ser arquivos vazios, pois estão sendo criados apenas para podermos criar as pastas.
+c) Através da interface web do GitHub, cada membro do grupo deverá criar um novo branch. 
+d) Cada membro do grupo, de acordo com a área em que está alocado (análise, arquitetura, programação, testes
+ou implantação) ficará responsável por criar um dos itens de configuração do projeto.
+e) Cada membro do grupo deverá realizar um clone do repositório em seu computador local.
+f) Cada membro do grupo deverá realizar o checkout do branch que criou.
+g) Cada membro do grupo deverá criar um novo arquivo em seu diretório de trabalho, na pasta relacionada a sua
+área (análise, arquitetura, programação, testes ou implantação). Este arquivo deverá ser o item de configuração
+que ficou sob sua responsabilidade. O arquivo deverá ter pelo menos dois parágrafos, com 30 palavras em cada
+parágrafo.
+h) Cada membro do grupo deverá adicionar o arquivo ao staging area e realizar as operações commit e push.
+
+Analise: Adriano Angelo RA 1800019
+
+Arquitetura: 
+
+Programação: Samuel Silva RA 
+
+Testes: 
+
+Implamantação: 
+
