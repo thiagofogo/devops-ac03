@@ -1,0 +1,20 @@
+Análise - Adriano Angelo Ramalho RA 1800019
+O sistema deve permitir a inclusão, alteração de produto com os
+seguintes atributos: código, descrição do produto, categoria, estoque
+máximo, estoque mínimo e unidade de medida.
+O sistema deve permitir que o usuário faça uma ou mais entradas, com
+os seguintes atributos: descrição do produto, unidade medida,
+quantidade, data de validade, data da entrada.
+O sistema deve permitir que o usuário faça uma ou mais saídas, com os
+seguintes atributos: descrição do produto, unidade de medida,
+quantidade, data da saída.
+O sistema deve permitir que o usuário faça uma ou mais solicitações de
+produtos para o fornecedor com os seguintes atributos: código
+solicitação, descrição do produto, data da solicitação e quantidade.
+O sistema deve permitir a inclusão, alteração de fornecedor com os
+seguintes atributos: razão social, inscrição estadual, CNPJ, nome
+fantasia, rua, numero, bairro, cidade, CEP, UF (Unidade da Federação),
+país, telefone, e-mail, notas e observações.
+O sistema deve permitir o atendimento de solicitações de produtos com
+os seguintes atributos: descrição do produto, quantidade, data de
+solicitação, data do atendimento.
