@@ -1,0 +1,5 @@
+    O sistema de controle de estoque, necessita de um programa que possa 
+ser facilmente lido por programadores novatos pois o cliente não deseja gastar 
+muito com um programador de linguagens mais completa.
+    E por coincidência iremos usar o python, por ser uma linguagem que estamos 
+estudandos e será util para nos praticar e por em ação oque estamos aprendendo.
