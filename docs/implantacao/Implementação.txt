@@ -1,0 +1,3 @@
+Implantação é a fase do ciclo de vida de um software (programa computacional, documentação e dados), no contexto de um Sistema de Informação, que corresponde textualmente à passagem do software para a produção.
+
+O processo de implantação universal consiste de várias atividades intercaladas como possíveis transições entre elas. Estas atividades podem ocorrer no ambiente de produção e ou no ambiente de desenvolvimento ou em ambos. Pelo o fato de cada software ser único, o processo preciso ou procedimentos a serem seguidos são difíceis de definir. Alem disto, a implantação pode ser interpretado como um processo universal que tem de ser customizado de acordo com requerimentos específicos ou características.
